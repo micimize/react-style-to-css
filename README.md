@@ -4,7 +4,7 @@ A heavily cropped, simplified version of the style to css string logic in [react
 example:
 
     var React = require('react')
-    var styleToCssString = require('style-to-css')
+    var styleToCssString = require('react-style-to-css')
 
     var styles = {
         color: 'red',
