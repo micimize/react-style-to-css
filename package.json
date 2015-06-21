@@ -1,14 +1,14 @@
 {
-  "name": "react-style-to-css",
-  "version": "0.0.1",
-  "description": "react-style code for converting styles to css strings",
-  "main": "./styleToCSS.js",
-  "license": "MIT",
-  "dependencies": {
-    "react": "^0.13.3"
-  }
-   "repository": {
-    "type": "git",
-    "url": "https://github.com/mangochomp/react-style-to-css"
-  }
+    "name": "react-style-to-css",
+    "version": "0.0.1",
+    "description": "react-style code for converting styles to css strings",
+    "main": "./styleToCSS.js",
+    "license": "MIT",
+    "dependencies": {
+        "react": "^0.13.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mangochomp/react-style-to-css"
+    }
 }
