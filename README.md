@@ -1,5 +1,5 @@
 # React Style to CSS (string)
-A heavily cropped, simplified version of the style to css string logic in [react-style][]. Used by react-static-jsx.
+A heavily cropped, simplified version of the style to css string logic in [react-style][]. Used by [react-static-jsx][].
 
 example:
 
@@ -22,3 +22,4 @@ License
 MIT
 
 [react-style]: https://github.com/js-next/react-style
+[react-static-jsx]: https://github.com/mangochomp/react-static-jsx
